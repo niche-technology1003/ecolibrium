@@ -1,0 +1,6 @@
+Problem Statement - Timezone based Task Execution
+There is a configuration where users can setup the time when they want to perform a particular task.
+
+The user input is of two format:
+"Email - U1 - India - 13:30:00 14:30:00 Tuesday and Thursday"
+"CALL U2 India 13:00:00 14:30:00"
